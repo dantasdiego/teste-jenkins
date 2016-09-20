@@ -31,7 +31,7 @@
 						<version>2.2</version>
 						<configuration>
 							<!-- <server>TomcatServer1</server> -->
-							<url>http://localhost:8080/manager/text</url>
+							<url>http://10.200.206.154:8080/manager/text</url>
 							<path>/teste-jenkins</path>
 							<update>true</update>
 							<username>admin</username>
