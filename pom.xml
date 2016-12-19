@@ -52,7 +52,7 @@
 						<version>2.2</version>
 						<configuration>
 							<!-- <server>TomcatServer1</server> -->
-							<url>http://10.200.206.46:8080/manager/text</url>
+							<url>http://10.200.206.149:8080/manager/text</url>
 							<path>/teste-jenkins</path>
 							<update>true</update>
 							<username>admin</username>
